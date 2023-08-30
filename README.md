@@ -14,6 +14,8 @@ __Mistakes__: Making a mistake by flashing the wrong color or getting the order 
 
 __Winning__: Successfully replicate the pattern for as long as possible to achieve a high score.
 
+## Game link 
+- [task-link: Simon Says Game](https://priti200.github.io/Simon-Say-Game/)
 
 ## Resources
 
@@ -25,3 +27,5 @@ Here are some resources to help you learn and create this simon says game:
 
 ## Have Fun!
 Simon Says is a classic game that challenges and entertains players by testing their memory and pattern recognition skills. Enjoy the game and aim for the highest score by replicating the increasingly complex patterns of flashing colors. Remember, the game starts when you press any key, so get ready to have fun! 🕹️
+
+
